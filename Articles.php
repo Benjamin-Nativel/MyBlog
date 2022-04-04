@@ -28,55 +28,63 @@
       </div>
     </div>
   </header><br>
+  <div class="welc">
+    <p>Welcome!</p>
+  </div>
+
+  <div class="redac">
 
 
-
-  
- 
- 
-
-  
-    
-
-
-
-
-
-
-<div class="redac">
-
-  <div class="contear">
 
     <div class="t1">
-      <div class="p"><img src="./img/image1.png" alt="profile de shibi" width="150px" height="180px">  <div class="t"><h1>SHIBI</h1> <p>redacteur en chef</p></div>
-      
-  
-  </div>
-   
-  
+      <div class="k">
+        <div class="p">
+          <img src="./img/image1.png" alt="profile de shibi" width="150px" height="180px">
+        </div>
+        <div class="t">
+          <h1>SHIBI</h1>
+          <p>redacteur en chef</p>
+        </div>
+
+
+      </div>
+
+
       <div class="div1">
-        <h1>Le Japon : leader mondial de la robotique</h1><img src="./img/rbj.jpg" alt=" photo de robot">
+        <p>
+        <h1 id="tj">Le Japon : leader mondial de la robotique</h1>
+          <div id="ey">
+            <p><i class="fa-solid fa-clock"></i> 5 Janvier 2022</p>
+            <p><i class="fa-solid fa-eye"></i> 1239091</p>
+          </div>
+        </p>
+
+
+
+
+
+
+        <img id="robot" src="./img/rbj.jpg" alt=" photo de robot">
       </div>
 
 
 
       <div class="div2">
         <p>Le Japon a toujours été une référence mondiale dans le domaine de la robotique. Sur le marché de la robotique<br>
-          industrielle, il demeure d’ailleurs depuis longtemps le leader international. Cependant, le nombre total d’unités en<br>
-          fonction dans le pays est maintenant inférieur à celui de la Chine , et sur le plan de la densité robotique, le Japon<br>
+          industrielle, il demeure d’ailleurs depuis longtemps le leader international. Cependant, le nombre total d’unités en fonction dans le pays est maintenant inférieur à celui de la Chine , et sur le plan de la densité robotique, le Japon
           est devancé par Singapour, la Corée du Sud et l’Allemagne.<br><br>
 
-          Aujourd’hui, la part des fabricants japonais de robots représente 52 % de l’offre mondiale et deux des quatre<br>
-          grandes compagnies robotiques mondiales sont japonaises . La robotique est l’un des outils essentiels de<br>
-          croissance du Japon. On peut se rappeler qu’en 2015, Shinzo Abe a annoncé la création du Conseil pour la Révolution<br>
-          robotique. Avec l’essor de l’Internet des objets (IdO) et de l’intelligence artificielle (IA), donc dans le contexte de la<br>
-          Quatrième Révolution industrielle, le Japon considère le développement de la robotique comme un axe de la<br>
-          réalisation de son projet de « Société 5.0 ». Le Japon tiendra d’ailleurs des Jeux olympiques de robots en 2020,<br>
-          après la version humaine à Tokyo.</p>
+          Aujourd’hui, la part des fabricants japonais de robots représente 52 % de l’offre mondiale et deux des quatre
+          grandes<br> compagnies robotiques mondiales sont japonaises . La robotique est l’un des outils essentiels de
+          croissance du<br> Japon. On peut se rappeler qu’en 2015, Shinzo Abe a annoncé la création du Conseil pour la Révolution
+          robotique.<br> Avec l’essor de l’Internet des objets (IdO) et de l’intelligence artificielle (IA), donc dans le contexte de la
+          Quatrième<br> Révolution industrielle, le Japon considère le développement de la robotique comme un axe de la
+          réalisation de son<br> projet de « Société 5.0 ». Le Japon tiendra d’ailleurs des Jeux olympiques de robots en 2020,
+          après la version<br> humaine à Tokyo.</p>
       </div>
     </div>
   </div>
-</div>
+
 
   <!-- <h3>Poster un commentaire</h3>
 <form method="post" action="<?php echo $currenturl; ?>">
