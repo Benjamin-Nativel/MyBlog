@@ -21,7 +21,6 @@
                 <div class="logo"><img src="./img/logo45.png" alt="" height="56px"></div>
 
                 <div class="acceuil">Acceuil</div>
-
                 <div class="Articles">Articles <a href=""></a></div>
                 <div class="contact">Contacts <a href=""></a></div>
                 <div class="log">Sign in <a href=""></a></div>
@@ -29,7 +28,7 @@
         </div>
     </header><br>
     <div class="welc">
-        <p>Welcome!</p>
+        <p></p>
     </div>
 
  
@@ -38,12 +37,13 @@
         <h1 id="na">NOS ARTICLES</h1>
 
 <div class="grida">
+    
         <div class="t1">
 
 
             <div class="div1">
                 <p>
-                <h1 id="tj">Le Japon : leader mondial de la robotique</h1>
+                <a  href ="Articles.php"><h1 id="tj">Le Japon : leader mondial de la robotique</h1></a>
 
                 </p>
 
@@ -63,7 +63,7 @@
 
             <div class="div1">
                 <p>
-                <h1 id="tj">Le Japon : leader mondial de la robotique</h1>
+               <a> <h1 id="tj">Le Japon : leader mondial de la robotique</h1></a>
 
                 </p>
 
@@ -76,6 +76,7 @@
                 <p>Le Japon a toujours été une référence mondiale dans le domaine de la robotique. Sur le marché de la robotique
                     industrielle, il demeure d’ailleurs depuis longtemps le leader international.
             </div>
+       
         </div>
     </div>
 </div>

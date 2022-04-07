@@ -1,3 +1,4 @@
+/* Résponsive page d'acceuil */
 @media screen and (max-width: 700px) {
   .topnav {
     display: flex;
@@ -14,19 +15,20 @@
     justify-content: space-evenly;
     height: 200px;
     background-color: transparent;
+    box-shadow: none;
   }
 }
 
 @media screen and (max-width: 700px) {
   .container {
-    width: 100%;
+
     display: grid;
     grid-template-columns: auto auto;
     grid-template-rows: auto auto auto auto auto;
     column-gap: 10px;
     row-gap: 10px;
-
     padding: 10px;
+    margin-right: 0px;
   }
 
   .item1 {
@@ -64,20 +66,137 @@
 
 @media screen and (max-width: 700px) {
 
- 
 
 
-  .logo{
-  
+
+  .logo {
+
     visibility: hidden;
+
+
+
+  }
+
+}
+
+/* Réponsive page ArticlesPreview */
+@media screen and (max-width: 700px) {
+
+  .redac {
+
+
+    padding: 10px;
+    margin-left: 0%;
+    margin-right: 0%;
+    border-radius: 0%;
+
+  }
+
+  .grida {
+
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+
+
+
+  }
+
+  .t1 {
+    padding: 15%;
+    margin-top: -15px;
+  }
+
+  .div2 {
+    width: 100%;
+    font-size: 15px;
+   margin-left: -35px;
+   
+   
+  }
+
+  #robot {
+    margin-left: -70px;
+    width: 325px;
+
+  }
+
+  #tj {
+    margin-top: -60px;
+    font-size: 16px;
+
+
+  }
+
+
+}
+
+/* Réponsive page Article */
+
+@media screen and (max-width: 800px) {
+
+  .redace {
+
+
+    padding: 10px;
+    margin-left: 0%;
+    margin-right: 0%;
+    border-radius: 0%;
+
+  }
+
+  .t {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 10%;
+
+  }
+
+  .k {
+    display: flex;
+
+    width: 10%;
+    margin-left: -200px;
+  }
+
+  .div22 {
+
+
+    font-size: 15px;
+    margin-left: 0%;
+    margin-right: 0%;
+    margin-bottom: 0px;
     
-    
-     
-    }
 
 
 
+  }
+
+  #aizawa {
+    width: 120px;
+    height: 150px;
+
+  }
+
+  #robote {
+    margin-right: 0%;
+    margin-left: 0%;
+    width: 100%;
+    -webkit-box-shadow: 1px 10px 15px 5px rgba(0, 0, 0, 0.6);
+    box-shadow: 1px 10px 15px 5px rgba(0, 0, 0, 0.6);
+
+  }
+
+  #tjr {
+    margin-top: 50px;
+    font-size: 20px;
+  
 
 
+  }
+  
 
 }

@@ -29,17 +29,17 @@
     </div>
   </header><br>
   <div class="welc">
-    <p>Welcome!</p>
+    <p></p>
   </div>
 
-  <div class="redac">
+  <div class="redace">
 
 
 
-    <div class="t1">
+    <div class="t">
       <div class="k">
         <div class="p">
-          <img src="./img/image1.png" alt="profile de shibi" width="150px" height="180px">
+          <img id="aizawa" src="./img/image1.png" alt="profile de shibi" width="150px" height="180px">
         </div>
         <div class="t">
           <h1>SHIBI</h1>
@@ -52,7 +52,7 @@
 
       <div class="div1">
         <p>
-        <h1 id="tj">Le Japon : leader mondial de la robotique</h1>
+        <h1 id="tjr">Le Japon : leader mondial de la robotique</h1>
           <div id="ey">
             <p><i class="fa-solid fa-clock"></i> 5 Janvier 2022</p>
             <p><i class="fa-solid fa-eye"></i> 1239091</p>
@@ -64,12 +64,12 @@
 
 
 
-        <img id="robot" src="./img/rbj.jpg" alt=" photo de robot">
+        <img id="robote" src="./img/rbj.jpg" alt=" photo de robot">
       </div>
 
 
 
-      <div class="div2">
+      <div class="div22">
         <p>Le Japon a toujours été une référence mondiale dans le domaine de la robotique. Sur le marché de la robotique<br>
           industrielle, il demeure d’ailleurs depuis longtemps le leader international. Cependant, le nombre total d’unités en fonction dans le pays est maintenant inférieur à celui de la Chine , et sur le plan de la densité robotique, le Japon
           est devancé par Singapour, la Corée du Sud et l’Allemagne.<br><br>

@@ -27,7 +27,7 @@
   </header>
 
   <div class="welc">
-    <p>ARTICLE</p>
+    <p></p>
   </div>
   <div class="main">
     <div class="about">
